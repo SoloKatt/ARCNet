@@ -1,6 +1,8 @@
 # Plataforma de Gestión de Datos con MongoDB Atlas y Flask
 # (Data Management Platform with MongoDB Atlas and Flask)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 ## Español
 
 Este proyecto es una plataforma para la gestión de datos que utiliza MongoDB Atlas como backend y Flask para implementar una API RESTful que maneja operaciones CRUD (Crear, Leer, Actualizar y Eliminar). Aquí tienes una descripción detallada de cada parte del programa:
@@ -16,15 +18,15 @@ MongoDB es una base de datos NoSQL que almacena datos en forma de documentos JSO
 #### Operaciones CRUD
 El programa proporciona rutas que permiten realizar las operaciones CRUD básicas en la colección de elementos en la base de datos MongoDB. Estas operaciones son:
 
-- **Create:** Agregar un nuevo elemento a la base de datos.
-- **Read:** Obtener información sobre uno o varios elementos de la base de datos.
-- **Update:** Actualizar la información de un elemento existente en la base de datos.
-- **Delete:** Eliminar un elemento de la base de datos.
+* **Create:** Agregar un nuevo elemento a la base de datos.
+* **Read:** Obtener información sobre uno o varios elementos de la base de datos.
+* **Update:** Actualizar la información de un elemento existente en la base de datos.
+* **Delete:** Eliminar un elemento de la base de datos.
 
 ### Resumen
 En resumen, este proyecto consiste en una API web que permite interactuar con una base de datos MongoDB utilizando Flask para realizar operaciones CRUD sobre los datos almacenados en ella.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## English
   
@@ -41,10 +43,10 @@ MongoDB is a NoSQL database that stores data in JSON-like documents. In this pro
 #### CRUD Operations
 The program provides routes to perform basic CRUD operations on the collection of items in the MongoDB database. These operations are:
 
-- **Create:** Add a new item to the database.
-- **Read:** Get information about one or multiple items from the database.
-- **Update:** Update the information of an existing item in the database.
-- **Delete:** Delete an item from the database.
+* **Create:** Add a new item to the database.
+* **Read:** Get information about one or multiple items from the database.
+* **Update:** Update the information of an existing item in the database.
+* **Delete:** Delete an item from the database.
 
 ### Summary
 In summary, this project is a web API that allows interacting with a MongoDB database using Flask to perform CRUD operations on the stored data.

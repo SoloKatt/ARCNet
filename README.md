@@ -1,9 +1,10 @@
 # Plataforma de Gestión de Datos con MongoDB Atlas y Flask
 
-- ## [Español](#espanol)
+## Tabla de Contenido
+- ## [Español](#español)
 - ## [English](#english)
 
-<a name="espanol"></a>
+<a name="español"></a>
 ## Español
 
 Este proyecto es una plataforma para la gestión de datos que utiliza MongoDB Atlas como backend y Flask para implementar una API RESTful que maneja operaciones CRUD (Crear, Leer, Actualizar y Eliminar). Aquí tienes una descripción detallada de cada parte del programa:

@@ -4,8 +4,8 @@
 - ## [Español](#Español)
 - ## [English](#English)
 
-<a name="español"></a>
-# Español
+<a name="#Español"></a>
+## Español
 
 Este proyecto es una plataforma para la gestión de datos que utiliza MongoDB Atlas como backend y Flask para implementar una API RESTful que maneja operaciones CRUD (Crear, Leer, Actualizar y Eliminar). Aquí tienes una descripción detallada de cada parte del programa:
 
@@ -28,8 +28,8 @@ El programa proporciona rutas que permiten realizar las operaciones CRUD básica
 ### Resumen
 En resumen, este proyecto consiste en una API web que permite interactuar con una base de datos MongoDB utilizando Flask para realizar operaciones CRUD sobre los datos almacenados en ella.
 
-<a name="english"></a>
-# English
+<a name="#English"></a>
+## English
 
 This project is a data management platform that uses MongoDB Atlas as a backend and Flask to implement a RESTful API handling CRUD (Create, Read, Update, Delete) operations. Here's a detailed description of each part of the program:
 

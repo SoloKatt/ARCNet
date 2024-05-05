@@ -2,9 +2,9 @@
 
 ## Tabla de Contenido
 - ## [Español](#español)
-- ## [English](#[english](https://github.com/SoloKatt/Flask-MongoDB-CRUD/blob/Flask-MongoDB-CRUD-Documentation/README.md#english-1))
+- ## [English](#english)
 
-<a name="#español"></a>
+<a name="español"></a>
 ## Español
 
 Este proyecto es una plataforma para la gestión de datos que utiliza MongoDB Atlas como backend y Flask para implementar una API RESTful que maneja operaciones CRUD (Crear, Leer, Actualizar y Eliminar). Aquí tienes una descripción detallada de cada parte del programa:

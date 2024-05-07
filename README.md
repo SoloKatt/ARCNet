@@ -50,4 +50,3 @@ The program provides routes to perform basic CRUD operations on the collection o
 
 ### Summary
 In summary, this project is a web API that allows interacting with a MongoDB database using Flask to perform CRUD operations on the stored data.
->>>>>>> Flask-MongoDB-CRUD-Documentation
